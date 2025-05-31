@@ -1,6 +1,6 @@
 # StudentPerformanceModeling
 
-Telegrams's bot name: @StudentPerformanceModelingBot
+Telegram's bot name: @StudentPerformanceModelingBot
 
 You should add .env file with TELEGRAM_BOT_TOKEN=YOUR_TOKEN
 
